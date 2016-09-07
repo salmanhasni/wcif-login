@@ -41,6 +41,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
 	api.use('tinytest');
-	api.use('salmanhasni:accounts-ui-semantic-ui');
+	api.use('salmanhasni:wcif-login');
 	api.addFiles('accounts-ui-semantic-ui-tests.js');
 });
