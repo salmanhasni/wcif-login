@@ -1,8 +1,8 @@
 Package.describe({
 	name: 'salmanhasni:accounts-ui-semantic-ui',
-	version: '1.2.2',
+	version: '0.0.1',
 	summary: 'Semantic UI styled accounts-ui',
-	git: 'https://github.com/SharpenedSpoon/accounts-ui-semantic-ui',
+	git: 'https://github.com/salmanhasni/wcif-login.git',
 	documentation: 'README.md'
 });
 
